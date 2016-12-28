@@ -1,0 +1,17 @@
+{
+  "name": "chattr",
+  "version": "0.0.0",
+  "description": "A sample chatting app, based on the CodeSchool tutorial for Node.js.",
+  "main": "chattr.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "redis": "^2.6.3",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Rowan (DRowan99@gmail.com)",
+  "license": "ISC"
+}
